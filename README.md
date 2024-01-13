@@ -120,6 +120,8 @@ The Spider Bot executes a sequence of leg movements, including lifting, swinging
   in challenging or remote areas
 
 ## Project Video
-## [SpiderBot2023](https://youtu.be/ZHi4U2DVGm4?si=ttzeoL9jR6Jwlb94).
+## [SpiderBot2023](https://youtu.be/ZHi4U2DVGm4?si=ttzeoL9jR6Jwlb94)
 
+## Project Report
+## [Report_SpiderBot2023](https://docs.google.com/document/d/1DtQAQrDl-bjDf1Mu_34E0jmQEdQHOWo6iXqOOF1qsy8/edit?usp=sharing)
 
